@@ -1,22 +1,23 @@
 🕘️更新时间,#genre#
-2025-10-15 18:57:18,https://jzb.wwkejishe.top/?id=578$订阅源
+2025-10-17 18:55:56,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
+CCTV-3,https://jzb.wwkejishe.top/?id=580$订阅源
 CCTV-5,https://jzb.wwkejishe.top/?id=582$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-6,https://jzb.wwkejishe.top/?id=584$订阅源
 CCTV-8,https://jzb.wwkejishe.top/?id=586$订阅源
-CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd$订阅源
-CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd$订阅源
 CCTV-9,https://jzb.wwkejishe.top/?id=587$订阅源
+CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd$订阅源
 CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd$订阅源
 CCTV-10,https://jzb.wwkejishe.top/?id=588$订阅源
 CCTV-10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd$订阅源
 CCTV-11,https://jzb.wwkejishe.top/?id=589$订阅源
 CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11$订阅源
+CCTV-12,https://jzb.wwkejishe.top/?id=590$订阅源
 CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -30,11 +31,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 CCTV-14,https://jzb.wwkejishe.top/?id=592$订阅源
 CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14$订阅源
 CCTV-15,https://jzb.wwkejishe.top/?id=593$订阅源
-CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
-CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
+CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 
 💰央视付费频道,#genre#
@@ -56,6 +56,7 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
 浙江卫视,https://cc06.tv12.xyz/117.m3u8$订阅源
 湖南卫视,https://cc06.tv12.xyz/57.m3u8$订阅源
+北京卫视,https://jzb.wwkejishe.top/?id=608$订阅源
 北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing$订阅源
 北京卫视,https://cc06.tv12.xyz/27.m3u8$订阅源
 湖北卫视,https://jzb.wwkejishe.top/?id=604$订阅源
@@ -68,16 +69,17 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
 重庆卫视,https://jzb.wwkejishe.top/?id=607$订阅源
 重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
+东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1$订阅源
+东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1$订阅源
 东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
-东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1$订阅源
-东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1$订阅源
 东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian$订阅源
 东南卫视,https://cc06.tv12.xyz/38.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+甘肃卫视,https://jzb.wwkejishe.top/?id=622$订阅源
 甘肃卫视,https://cc06.tv12.xyz/44.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
@@ -87,10 +89,11 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 贵州卫视,https://cc06.tv12.xyz/48.m3u8$订阅源
 海南卫视,https://jzb.wwkejishe.top/?id=600$订阅源
 海南卫视,https://cc06.tv12.xyz/93.m3u8$订阅源
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河北卫视,https://jzb.wwkejishe.top/?id=615$订阅源
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河北卫视,https://cc06.tv12.xyz/51.m3u8$订阅源
+河南卫视,https://jzb.wwkejishe.top/?id=616$订阅源
 河南卫视,https://cc06.tv12.xyz/49.m3u8$订阅源
 吉林卫视,https://cc06.tv12.xyz/60.m3u8$订阅源
 江苏卫视,https://cc06.tv12.xyz/61.m3u8$订阅源
@@ -106,6 +109,7 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 山西卫视,https://cc06.tv12.xyz/107.m3u8$订阅源
 陕西卫视,https://jzb.wwkejishe.top/?id=603$订阅源
 陕西卫视,https://cc06.tv12.xyz/106.m3u8$订阅源
+四川卫视,https://jzb.wwkejishe.top/?id=610$订阅源
 四川卫视,https://cc06.tv12.xyz/99.m3u8$订阅源
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 深圳卫视,https://cc06.tv12.xyz/108.m3u8$订阅源
@@ -224,8 +228,8 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-南京新闻综合,https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=4651e641585356dfef7f9682a415f4e85a79d38009634552023cf582d912932afc0c56cff77070938e0385de5394675f9a1d4220f6e7d48a88ca5fb2fe6371c1bc4597385fdd397d399ae8ef55$订阅源
-南京新闻综合,https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=4651e641585356dfef7f9682a415f4e85a79d38009634552023cf582d912932afc0c56cff77070938e0385de5394675f9a1d4220f6e7d48a88ca5fb2fe6371c1bc4597385fdd397d399ae8ef55$订阅源
+南京新闻综合,https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=d3d943815e6d6e9e9493a9b4b1d5a1d360bb5f3c04230f6d4d71f7f7c9f30771d321f1c262008c92ffde17fef4a62d1e1c58d5a9454573fb1489994d9be29f4e1cc7786813b671581eda4b9439$订阅源
+南京新闻综合,https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=d3d943815e6d6e9e9493a9b4b1d5a1d360bb5f3c04230f6d4d71f7f7c9f30771d321f1c262008c92ffde17fef4a62d1e1c58d5a9454573fb1489994d9be29f4e1cc7786813b671581eda4b9439$订阅源
 南通新闻综合,https://mgtv.ottiptv.cc/migu/955227985.m3u8?migutoken=ee98b6677d4ae15ad8e3bd9bf4d810d65be1a5ed91f029a9da7648c10abec0ad4d9461555268693f2e1627aeb037fd39d60175731d37507782e60db7fb7aa1cb33549a67bedfffac3251f607bc$订阅源
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"$订阅源
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"$订阅源
@@ -388,12 +392,12 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 内蒙古经济生活,https://ls.qingting.fm/live/1885/64k.m3u8$订阅源
 
 ☘️云南频道,#genre#
+文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund$订阅源
+文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund$订阅源
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund$订阅源
 
 ☘️青海频道,#genre#
 安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2$订阅源
-安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$订阅源
-安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$订阅源
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8#@http://cm-wshls.homecdn.com/live/5a296.dlv#@http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#@http://cm-wshls.homecdn.com/live/5a296.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2$订阅源
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8$订阅源
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8$订阅源
@@ -410,9 +414,11 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 凤凰中文,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd$订阅源
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8$订阅源
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8$订阅源
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd$订阅源
 凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd$订阅源
-凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8$订阅源
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8$订阅源
 凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn$订阅源
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
@@ -474,7 +480,6 @@ CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u
 🎵音乐频道,#genre#
 CCTV-15,https://jzb.wwkejishe.top/?id=593$订阅源
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
-CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 
 🏛经典剧场,#genre#
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
